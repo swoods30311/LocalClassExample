@@ -1,5 +1,6 @@
 public class LocalClassExample {
 
+    // Good Sample to add to an App
     static String regularExpression = "[^0-9]";
 
     public static void validatePhoneNumber(
